@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.920f871f.chunk.css",
+    "main.js": "/static/js/main.d0dd95dd.chunk.js",
+    "main.js.map": "/static/js/main.d0dd95dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fce06d4f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fce06d4f.js.map",
+    "static/js/2.5416ee2e.chunk.js": "/static/js/2.5416ee2e.chunk.js",
+    "static/js/2.5416ee2e.chunk.js.map": "/static/js/2.5416ee2e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9011e97c50530a976a139f85528c9dec.js": "/precache-manifest.9011e97c50530a976a139f85528c9dec.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.920f871f.chunk.css.map": "/static/css/main.920f871f.chunk.css.map",
+    "static/js/2.5416ee2e.chunk.js.LICENSE.txt": "/static/js/2.5416ee2e.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.svg": "/static/media/blackHeartIcon.78ac9880.svg",
+    "static/media/drinkIcon.svg": "/static/media/drinkIcon.21467883.svg",
+    "static/media/exploreIcon.svg": "/static/media/exploreIcon.64d45a55.svg",
+    "static/media/foodfinder.svg": "/static/media/foodfinder.56a488b3.svg",
+    "static/media/mealIcon.svg": "/static/media/mealIcon.82b6f674.svg",
+    "static/media/Login.css": "/static/media/mesa.525caf8f.svg",
+    "static/media/profileIcon.svg": "/static/media/profileIcon.8712a673.svg",
+    "static/media/searchIcon.svg": "/static/media/searchIcon.4552d440.svg",
+    "static/media/shareIcon.svg": "/static/media/shareIcon.bede9005.svg",
+    "static/media/view.png": "/static/media/view.d58934fe.png",
+    "static/media/whiteHeartIcon.svg": "/static/media/whiteHeartIcon.8e1a95ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fce06d4f.js",
+    "static/js/2.5416ee2e.chunk.js",
+    "static/css/main.920f871f.chunk.css",
+    "static/js/main.d0dd95dd.chunk.js"
+  ]
+}
